@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+	color: white;	
+}
+
+html,body{
+	height: 100%;
+}
+.center{
+	padding: 0 2%;
+}
+.header{
+	background: #132A3E;
+}
+.titulo{
+	float: left;
+}
+.menu{
+	padding-top: 15px;
+	margin-right: 35px;
+	float: right;
+}
+.menu a{
+	text-decoration: none;
+	margin: 0 20px;
+	color: white;
+}
+.clear{
+	clear: both;
+}
+.Conteudo{
+	background: #639dcf;
+	min-height: 100%;
+}
+
+footer{
+	display: block;
+	width: 100%;
+	background: #26547c;
+}
